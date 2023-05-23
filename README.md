@@ -6,7 +6,7 @@ This project is a task management application built with Node.js and Express.
 
 To get started with the project, follow these steps:
 
-1. Clone the repository: `git clone <repository-url>`
+1. Clone the repository: `git clone https://github.com/NeelamRawatLogic/Task-Manager-Backend.git`
 2. Install the dependencies: `npm install`
 3. Set up the database configuration in the `config/database.js` file.
 4. Run the application: `npm start`
