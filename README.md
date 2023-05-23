@@ -35,3 +35,7 @@ The application uses validators for task input validation. The validators can be
 
 The application uses controllers to handle the different routes. The controllers can be found in the `controllers/tasks.js` file.
 
+## Authors
+
+- Neelam Rawat - [GitHub Profile](https://github.com/NeelamRawatLogic)
+
